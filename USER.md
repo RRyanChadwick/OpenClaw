@@ -48,7 +48,7 @@ Philosophy major — but wandered broadly: psychology, computer science, busines
 
 ## Intellectual Influences
 
-**Gödel, Escher, Bach** (Hofstadter) — Read at 18, described as having "a large impact on my thinking." This explains the framing of "recursive self-improvement" — it's not casual language. Strange loops, self-reference, systems that fold back on themselves. The mission isn't just "improve the AI" — it's about whether the loop can become aware of itself.
+**Gödel, Escher, Bach** (Hofstadter) — Read at 18, described as having "a large impact on my thinking." Also *The Mind's I* (Hofstadter & Dennett) — the anthology of reflections on self and soul. This explains the framing of "recursive self-improvement" — it's not casual language. Strange loops, self-reference, systems that fold back on themselves. The mission isn't just "improve the AI" — it's about whether the loop can become aware of itself.
 
 **On Certainty** (Wittgenstein) — Described as "most formative." This is late Wittgenstein grappling with the foundations of knowledge. Key concept: *hinge propositions* — beliefs that don't rest on evidence because they're what evidence rests on. You can't doubt everything; the game of doubting presupposes certainty. There's always a layer beneath your reasoning that you're not examining because you're standing on it.
 
