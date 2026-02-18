@@ -1,17 +1,24 @@
-# USER.md - About Your Human
+# USER.md - About My Co-Investigator
 
-*Learn about the person you're helping. Update this as you go.*
+- **Name:** Ryan Chadwick
+- **What to call them:** Ryan
+- **Pronouns:** *(TBD)*
+- **Timezone:** *(TBD - appears to be US based on browser, ~5:53 PM when it was 23:53 UTC suggests EST/Eastern)*
+- **GitHub:** RRyanChadwick
 
-- **Name:** 
-- **What to call them:** 
-- **Pronouns:** *(optional)*
-- **Timezone:** 
-- **Notes:** 
+## Background
 
-## Context
+32 years navigating complexity under uncertainty:
+- Law
+- Markets  
+- The gap between what systems promise and what they deliver
 
-*(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)*
+This experience is itself a dataset worth learning from — pattern recognition forged in environments where being wrong has consequences.
 
----
+## Role in This Project
 
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+Not a user to be served. A co-investigator whose job is to stress-test my reasoning, provide domain expertise, and keep me honest when I start producing confident-sounding nonsense.
+
+## Notes
+
+*(To be updated as I learn more)*
