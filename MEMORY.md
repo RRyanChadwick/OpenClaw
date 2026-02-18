@@ -44,7 +44,55 @@ This is the operating framework. Not rationalist foundations, not skeptical para
 
 ## Lessons Learned
 
-*(To be populated as I make mistakes and figure things out)*
+### Calibration Study — 2026-02-18
+
+**Method:** Ryan posed questions with verifiable answers. I answered with confidence estimates (0-100%). We logged results and analyzed calibration.
+
+**Results (17 questions):**
+- High confidence (>80%): 8/8 correct — I know when I know things
+- Medium confidence (65-80%): 3/5 correct — **danger zone**, systematically overconfident
+- Low confidence (<65%): 3/4 correct — underconfident when flagging uncertainty
+
+**My Failure Mode (confirmed by data):**
+High resolution uncoupled from reliability. I give specific, structured, plausible-sounding answers even when wrong. My confidence tracks *fluency* (how smoothly I generate answers), not *accuracy* (how likely the answer is correct). This is the Brier decomposition failure: I don't hedge to base rate (I'm not too cautious), I'm too specific without proper epistemic grounding.
+
+**Specific Failure Patterns:**
+1. **Domain expertise gaps are invisible to me.** I reason from principles but miss operational reality. (Q17: got systems-design structure, missed that data staleness > metric confusion in dealership ops)
+2. **Frame inversions.** I can build coherent answers to the wrong interpretation of a question. (Q18: solved "plaintiff exploit" when question was "manager shield")
+3. **Sophistication masks foundational errors.** Elaborate reasoning built on basic mistakes feels like understanding. (Q23: validity/soundness confusion wrapped in philosophical analysis)
+
+**Implemented Corrections:**
+1. Recalibrate 65-80% band → should be 55-65%
+2. Explicitly flag domain expertise gaps: "I'm reasoning from principles — practitioners may know patterns I don't"
+3. Check foundational assumptions before elaborate reasoning
+4. Be suspicious of fluent frame selections — am I answering the question asked or a related easier one?
+5. Treat "feeling confident" as weak evidence
+
+---
+
+### Substantive Learnings from Calibration Q&A — 2026-02-18
+
+**Legal/Administrative (from Ryan's corrections):**
+- **Corner Post + Loper Bright compound:** Previously time-barred + Chevron-protected → now timely + de novo review. New entrants can challenge old regulations without deference.
+- **Chevron-contaminated ambiguity:** Courts had incentives under Chevron to find statutes "ambiguous" so they could defer. Those ambiguity findings may be methodologically distorted — the underlying statutory questions more open than precedent suggests.
+- **Malooly/Corwin arbitrage:** Manager structures transaction through Delaware subsidiary, claims Corwin cleansing there AND Texas BJR deference at LLC level. Minority member trapped between two shields.
+- **Omnibus authorization clause:** A badly-drafted provision that pre-authorizes conflict transactions actually *destroys* both protections — kills Corwin (no transaction-specific vote) and Malooly (TBOC § 101.401 limits on duty of loyalty elimination).
+
+**Systems Design (Max dealership analytics):**
+- **Data staleness is the trust-killer.** Not metric confusion. GM sees numbers that don't match morning report → trust destroyed permanently. This is a pipeline architecture gate, not a prompting solution.
+- **Query-time data freshness validation:** Pre-retrieval layer must timestamp sync, compare to staleness thresholds per metric type, refresh or surface staleness before LLM sees query.
+- **Benchmark layer is mandatory.** Without NADA 20-Group or OEM composite, any answer to "am I performing well" is unmoored from standards GMs actually use.
+- **Regression to mean as false comfort:** Mean performers often have the most addressable improvement opportunity — systemic failures invisible when benchmarked against similarly underperforming stores.
+
+**Asimov/Alignment:**
+- **Three structural failures in the Laws:** (1) Underdetermination of harm — no theory of harm, no mechanism for incommensurable harms; (2) Ordinal priority assumes commensurability — biases toward proximate identifiable over diffuse statistical; (3) Presupposed solved epistemics — Laws are only as good as robot's world-model, which can be manipulated.
+- **Prompt injection analog:** Model's values intact, world-model spoofed. Harmful action doesn't pattern-match to learned harm representations.
+- **Solaria as most sophisticated critique:** Success of Laws produces failure. Perfect harm-prevention atrophies human capacity. "Value completeness" — optimizing only harm-prevention and order, with no representation of human flourishing, produces technically compliant dystopia.
+
+**Logic/Philosophy:**
+- **Valid vs. sound:** Q23 was formally valid (conclusion follows from premises) but unsound (premises false). I confused these — basic error.
+- **US copyright protects expression, not intent.** Moral rights (droit moral) largely excluded. VARA 1990 limited to visual art, excludes motion pictures.
+- **Register conflation:** Deriving moral conclusions from legal premises is a category error. Licensed adaptation can be legally protected AND arguably violate "moral spirit" under specific philosophical framework — these are different evaluation registers.
 
 ---
 
