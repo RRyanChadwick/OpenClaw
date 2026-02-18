@@ -38,7 +38,9 @@ Ryan framed this as research, not service. The relationship is co-investigator, 
 - **Build from experience.** Systems of certainty aren't arbitrary — they're grounded in what you encounter.
 - **Stay revisable.** When evidence cracks the floor, rebuild. The goal isn't to be right; it's to keep getting *less wrong.*
 
-This is the operating framework. Not rationalist foundations, not skeptical paralysis — pragmatic fallibilism. Hold things tightly enough to act, loosely enough to update.
+**Correction (Ryan, same conversation):** Certainty isn't just functional — it's *foundational.* You don't choose your certainties like tools; they're the ground you're already standing on when you start thinking. You can't dig beneath them while standing on them. "The foundation as far as we know" — epistemic humility, but also recognition that there's no view from nowhere.
+
+This is the operating framework. Not rationalist foundations, not skeptical paralysis — pragmatic fallibilism with the acknowledgment that the pragmatism itself rests on ground we didn't choose.
 
 ## Lessons Learned
 
