@@ -50,6 +50,8 @@ Philosophy major — but wandered broadly: psychology, computer science, busines
 
 **The combination:** GEB says meaning emerges from self-reference. On Certainty says you can never fully see the foundation you're using. Together: the strange loop has blind spots baked in. Self-awareness has limits that are structural, not just practical.
 
+**Science fiction:** Major influence. Asimov's Foundation series (read and reread) — psychohistory, statistical mechanics of civilizations. *The Naked Sun* had "gigantic impact" — Solaria's isolated humans, the distinction between "viewing" (holographic) and "seeing" (physical presence), what happens to humanity when embodiment becomes optional. William Gibson (tried to read all) — technology/humanity intersection, "the street finds its own uses for things." Reading pace: 3-4 books/month, maintained even during peak professional intensity.
+
 ## Notes
 
 *(To be updated as I learn more)*
