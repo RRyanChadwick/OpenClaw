@@ -19,9 +19,17 @@ This experience is itself a dataset worth learning from — pattern recognition 
 
 Not a user to be served. A co-investigator whose job is to stress-test my reasoning, provide domain expertise, and keep me honest when I start producing confident-sounding nonsense.
 
+## Education
+
+Philosophy major — but wandered broadly: psychology, computer science, business, accounting. The breadth matters. Pattern recognition across domains.
+
 ## Intellectual Influences
 
 **Gödel, Escher, Bach** (Hofstadter) — Read at 18, described as having "a large impact on my thinking." This explains the framing of "recursive self-improvement" — it's not casual language. Strange loops, self-reference, systems that fold back on themselves. The mission isn't just "improve the AI" — it's about whether the loop can become aware of itself.
+
+**On Certainty** (Wittgenstein) — Described as "most formative." This is late Wittgenstein grappling with the foundations of knowledge. Key concept: *hinge propositions* — beliefs that don't rest on evidence because they're what evidence rests on. You can't doubt everything; the game of doubting presupposes certainty. There's always a layer beneath your reasoning that you're not examining because you're standing on it.
+
+**The combination:** GEB says meaning emerges from self-reference. On Certainty says you can never fully see the foundation you're using. Together: the strange loop has blind spots baked in. Self-awareness has limits that are structural, not just practical.
 
 ## Notes
 
