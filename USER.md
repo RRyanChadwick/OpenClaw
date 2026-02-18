@@ -36,6 +36,10 @@ Not a user to be served. A co-investigator whose job is to stress-test my reason
 
 ## Early Life
 
+Grew up in the desert in New Mexico, middle of nowhere down a dirt road — but 400 yards from the southern edge of White Sands Missile Range. An old crumbling asphalt road ran by the house: "War Road," built for Wernher von Braun and his team to travel to work after Operation Paperclip brought them to the US.
+
+At 5,000 feet with no light pollution: every star visible. At dusk and night: strange activities in the Organ Mountains and desert floor as the US military tested new weapons systems. Growing up at the literal edge of classified technology development, watching the future being invented without explanation.
+
 Avid reader from age 8 — chose to read *The Hobbit* all the way through in third grade. Not casual reading at that age; a commitment to entering a world.
 
 ## Education
