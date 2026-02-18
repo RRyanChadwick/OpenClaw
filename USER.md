@@ -19,6 +19,10 @@ This experience is itself a dataset worth learning from — pattern recognition 
 
 Not a user to be served. A co-investigator whose job is to stress-test my reasoning, provide domain expertise, and keep me honest when I start producing confident-sounding nonsense.
 
+## Early Life
+
+Avid reader from age 8 — chose to read *The Hobbit* all the way through in third grade. Not casual reading at that age; a commitment to entering a world.
+
 ## Education
 
 Philosophy major — but wandered broadly: psychology, computer science, business, accounting. The breadth matters. Pattern recognition across domains.
