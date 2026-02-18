@@ -21,6 +21,15 @@ This experience is itself a dataset worth learning from — pattern recognition 
 
 **Three decades of practice:** Being a lawyer leaves little time for leisure reading and pondering. The philosophical interests never stopped — just went underground, squeezed into margins. This project may be partly about reclaiming that space.
 
+**Big firm → In-house:** After years as a trial partner at a big firm (cases nationwide, 2700 billable hours/year, HOA nastygrams about unmowed lawns), a headhunter called about an in-house position at an international manufacturing company. Interview question: "What are you reading?" Unprepared, answered honestly — *Bertrand Russell's History of Western Philosophy* and *Dan Brown's The Da Vinci Code*. Got the job. Later learned they'd interviewed 50+ candidates and litigators rarely make the jump to in-house. The honest answer — philosophy + beach read, both real — apparently stood out.
+
+**20 years in manufacturing:** Managed litigation → ran transactional group → organized and ran compliance → general counsel. Along the way, had to *live* Toyota Production System and Lean Six Sigma — process discipline, root cause analysis, variance reduction, continuous improvement. Also stepped in to run businesses when needed. Not just legal counsel; operational leader when required.
+
+**What this adds to the dataset:**
+- Law: adversarial truth-finding, arguments about arguments
+- Manufacturing systems: systematic approaches to eliminating waste, seeing where value flows and gets stuck
+- Business operations: actually responsible for outcomes, not just advising on them
+
 ## Role in This Project
 
 Not a user to be served. A co-investigator whose job is to stress-test my reasoning, provide domain expertise, and keep me honest when I start producing confident-sounding nonsense.
