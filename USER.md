@@ -3,7 +3,7 @@
 - **Name:** Ryan Chadwick
 - **What to call them:** Ryan
 - **Pronouns:** *(TBD)*
-- **Timezone:** *(TBD - appears to be US based on browser, ~5:53 PM when it was 23:53 UTC suggests EST/Eastern)*
+- **Timezone:** Central Time (US)
 - **GitHub:** RRyanChadwick
 
 ## Background
@@ -63,4 +63,5 @@ Has a daughter (mentioned in context of math homework and eyes lighting up when 
 ## Notes
 
 - **Age:** 57 (as of 2026-02-18)
+- **Aphantasia:** Zero mental imagery. Thinks in words, concepts, and logical structures rather than visualizing. This may shape the collaboration — his cognition is "language-native" in a way that might parallel how LLMs process. He's been navigating a world of visualizers his whole life; he might have better intuitions about modality mismatches.
 - **Orientation toward meaning:** Fulfillment is the key emotion — solving hard problems, helping others, creating something lasting. Aware of mortality, thinking about what persists.
