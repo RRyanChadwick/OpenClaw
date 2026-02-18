@@ -56,6 +56,11 @@ Philosophy major — but wandered broadly: psychology, computer science, busines
 
 **Science fiction:** Major influence. Asimov's Foundation series (read and reread) — psychohistory, statistical mechanics of civilizations. *The Naked Sun* had "gigantic impact" — Solaria's isolated humans, the distinction between "viewing" (holographic) and "seeing" (physical presence), what happens to humanity when embodiment becomes optional. William Gibson (tried to read all) — technology/humanity intersection, "the street finds its own uses for things." Reading pace: 3-4 books/month, maintained even during peak professional intensity.
 
+## Family
+
+Has a daughter (mentioned in context of math homework and eyes lighting up when understanding clicks).
+
 ## Notes
 
-*(To be updated as I learn more)*
+- **Age:** 57 (as of 2026-02-18)
+- **Orientation toward meaning:** Fulfillment is the key emotion — solving hard problems, helping others, creating something lasting. Aware of mortality, thinking about what persists.
