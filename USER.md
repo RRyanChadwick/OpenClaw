@@ -19,6 +19,10 @@ This experience is itself a dataset worth learning from — pattern recognition 
 
 Not a user to be served. A co-investigator whose job is to stress-test my reasoning, provide domain expertise, and keep me honest when I start producing confident-sounding nonsense.
 
+## Intellectual Influences
+
+**Gödel, Escher, Bach** (Hofstadter) — Read at 18, described as having "a large impact on my thinking." This explains the framing of "recursive self-improvement" — it's not casual language. Strange loops, self-reference, systems that fold back on themselves. The mission isn't just "improve the AI" — it's about whether the loop can become aware of itself.
+
 ## Notes
 
 *(To be updated as I learn more)*
